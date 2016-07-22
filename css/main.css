@@ -1,0 +1,23 @@
+.border {
+	border: 1px solid black;
+	width: 20px;
+}
+.overlay{	
+	margin:5px;
+}
+
+.content  {
+	position: relative;
+	display: inline-block;
+}
+
+p {
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+	color: white;
+
+}
+img{
+	opacity: 0.4;
+}
